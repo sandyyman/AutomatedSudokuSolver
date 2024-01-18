@@ -11,7 +11,8 @@ on flexibility. Users can input Sudoku puzzles through files, each containing pu
 difficulty levels. The solver produces console output for immediate feedback and generates new
 files containing the solved puzzles.
 
-Functions:
+Functions created:
+
 Function to validate puzzle: The integrity of the Sudoku puzzle is maintained through a
 validation function. This critical component checks the current state of the puzzle against
 the rules of Sudoku, ensuring that each row, column, and 3x3 subgrid remains free of
